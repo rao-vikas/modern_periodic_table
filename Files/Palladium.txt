@@ -1,0 +1,38 @@
+PALLADIUM
+
+Symbol: Pd
+
+Atomic Number: 46
+
+Atomic Weight: 106.42
+
+Discovery: William Wollaston 1803 (England)
+
+Electron Configuration: [Kr] 4d10
+
+Element Classification: Transition Metal
+
+Density (g/cc): 12.02
+
+Melting Point (K): 1825
+
+Boiling Point (K): 3413
+
+Appearance: silvery-white, soft, malleable and ductile metal
+
+Atomic Radius (pm): 137
+
+Covalent Radius (pm): 128
+
+Ionic Radius: 65 (+4e) 80 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.244
+
+First Ionizing Energy (kJ/mol): 803.5
+
+Oxidation States: 4, 2, 0
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 3.890
+        

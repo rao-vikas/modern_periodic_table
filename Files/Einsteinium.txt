@@ -1,0 +1,28 @@
+EINSTEINIUM
+
+Symbol: Es
+
+Atomic Number: 99
+
+Atomic Weight: (254)
+
+Discovery: Ghiorso et al. 1952
+
+Electron Configuration: 5f11
+
+Group: Rare Earth, Actinides
+
+Melting Point: 1133.2 K
+
+1st Ionization Energy: 619 kJ/mole
+
+Electronegativity: 1.3
+
+Shells: 2,8,18,32,29,8,2
+
+Characteristics: Radioactive
+
+Atomic Radius: 186 pm
+
+Source: Man-made
+      

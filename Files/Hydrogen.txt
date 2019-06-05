@@ -1,0 +1,28 @@
+HYDROGEN
+
+Discovery: Cavendish, 1766. Hydrogen was prepared for many years before it was recognized as a distinct element.
+
+Hydrogen Electron Configuration: 1s1
+
+Hydrogen Word Origin: Greek: hydro, water; genes, forming Named by Lavoisier.
+
+Hydrogen Isotopes: Protium (0 neutrons), Deuterium (1 neutron), and Tritium (2 neutrons)
+
+Ground level: 2S1/2
+
+Ionization potential: 13.5984 ev
+
+Physical form: Colorless gas
+
+Melting point: -259.2°C
+
+Boiling point: -252.762°C
+
+Critical temperature: -240.18°C
+
+Density: 0.082 g/L
+
+Specific heat: 14.304 J/g•K
+
+Valence: 1
+        

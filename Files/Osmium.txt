@@ -1,0 +1,38 @@
+OSMIUM
+
+Symbol: Os
+
+Atomic Number: 76
+
+Atomic Weight: 190.23
+
+Discovery: Smithson Tennant 1803 (England)
+
+Electron Configuration: [Xe] 4f14 5d6 6s2
+
+Element Classification: Transition Metal
+
+Density (g/cc): 22.57
+
+Melting Point (K): 3327
+
+Boiling Point (K): 5300
+
+Appearance: blue-white, lustrous, hard metal
+
+Atomic Radius (pm): 135
+
+Covalent Radius (pm): 126
+
+Ionic Radius: 69 (+6e) 88 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.131
+
+First Ionizing Energy (kJ/mol): 819.8
+
+Oxidation States: 8, 6, 4, 3, 2, 0, -2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 2.740
+        

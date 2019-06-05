@@ -1,0 +1,38 @@
+BORON
+
+Symbol: B
+
+Atomic Number: 5
+
+Atomic Weight: 10.811
+
+Electron Configuration: [He] 2s2 2p1
+
+Element Classification: Semimetal
+
+Discoverer: Sir H. Davy, J.L. Gay-Lussac, L.J. Thenard
+
+Density (g/cc): 2.34
+
+Appearance:Crystalline boron is hard, brittle, lustrous black semimetal. Amorphous boron is a brown powder.
+
+Boiling Point: 4000 °C
+
+Melting Point: 2075 °C
+
+Atomic Radius (pm): 98
+
+Covalent Radius (pm): 82
+
+Ionic Radius: 23 (+3e)
+
+Specific Heat (@20°C J/g mol): 1.025
+
+First Ionizing Energy (kJ/mol): 800.2
+
+Oxidation States: 3
+
+Lattice Structure: Tetragonal
+
+Lattice Constant (Å): 8.730
+        

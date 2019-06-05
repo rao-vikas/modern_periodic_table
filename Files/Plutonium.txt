@@ -1,0 +1,32 @@
+PLUTONIUM
+
+Symbol: Pu
+
+Atomic Number: 94
+
+Atomic Weight: 244.0642
+
+Discovery: G.T. Seaborg, J.W. Kennedy, E.M. McMillan, A.C. Wohl (1940, United States)
+
+Electron Configuration: [Rn] 5f6 7s
+
+Element Classification: Radioactive Rare Earth (Actinide)
+
+Density (g/cc): 19.84
+
+Melting Point (K): 914
+
+Boiling Point (K): 3505
+
+Appearance: silvery-white, radioactive metal
+
+Atomic Radius (pm): 151
+
+Ionic Radius: 93 (+4e) 108 (+3e)
+
+First Ionizing Energy (kJ/mol): 491.9
+
+Oxidation States: 6, 5, 4, 3
+
+Lattice Structure: Monoclinic
+       

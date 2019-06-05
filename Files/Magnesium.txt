@@ -1,0 +1,36 @@
+MAGNESIUM
+
+Symbol: Mg
+
+Atomic Number: 12
+
+Atomic Weight: 24.305
+
+Discovery: Recognized as an element by Black 1775; Isolated by Sir Humphrey Davy 1808 (England)
+
+Electron Configuration: [Ne] 3s2
+
+Element Classification: Alkaline Earth Metal
+
+Isotopes: Magnesium has 21 known isotopes ranging from Mg-20 to Mg-40. Magnesium has 3 stable isotopes: Mg-24, Mg-25 and Mg-26.
+
+Density (g/cc): 1.738
+
+Appearance: lightweight, malleable, silvery-white metal
+
+Atomic Radius (pm): 160
+
+Covalent Radius (pm): 136
+
+onic Radius: 66 (+2e)
+
+Specific Heat (@20°C J/g mol): 1.025
+
+First Ionizing Energy (kJ/mol): 737.3
+
+Oxidation States: 2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.210")
+                    

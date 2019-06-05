@@ -1,0 +1,32 @@
+LITHIUM
+
+Symbol: Li
+
+Atomic Number: 3
+
+Atomic Weight: [6.938; 6.997]
+
+Discovery: 1817, Arfvedson (Sweden)
+
+Electron Configuration: [He]2s1
+
+Element Classification: Alkali Metal
+
+Density (g/cc): 0.534
+
+Appearance: soft, silvery-white metal
+
+Isotopes: 8 isotopes [Li-4 to Li-11]. Li-6 (7.59% abundance) and Li-7 (92.41% abundance) are both stable.
+
+Atomic Radius (pm): 155
+
+Covalent Radius (pm): 163
+
+Ionic Radius: 68 (+1e)
+
+Specific Heat (@20°C J/g mol): 3.489
+
+Pauling Negativity Number: 0.98
+
+Oxidation States: 1
+        

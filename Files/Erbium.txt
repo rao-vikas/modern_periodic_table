@@ -1,0 +1,40 @@
+ERBIUM
+
+Symbol: Er
+
+Atomic Number: 68
+
+Atomic Weight: 167.26
+
+Discovery: Carl Mosander 1842 or 1843 (Sweden)
+
+Electron Configuration: [Xe] 4f12 6s2
+
+Isotopes: Nine radioactive isotopes are also recognized.
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 9.06
+
+Melting Point (K): 1802
+
+Boiling Point (K): 3136
+
+Appearance: soft, malleable, silvery metal
+
+Atomic Radius (pm): 178
+
+Covalent Radius (pm): 157
+
+Ionic Radius: 88.1 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.168
+
+First Ionizing Energy (kJ/mol): 581
+
+Oxidation States: 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.560
+   

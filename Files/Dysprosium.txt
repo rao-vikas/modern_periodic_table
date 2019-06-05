@@ -1,0 +1,38 @@
+DYSPROSIUM
+
+Symbol: Dy
+
+Atomic Number: 66
+
+Atomic Weight: 162.50
+
+Discovered By: Paul-Emile Lecoq de Boisbaudran
+
+Electronic Configuration: [Xe] 4f10 6s2
+
+Element Classification: Rare Earth (Lanthanide Series)
+
+Density (g/cc): 8.55
+
+Melting Point (K): 1685
+
+Boiling Point (K): 2835
+
+Appearance: soft, lustrous, silvery metal
+
+Atomic Radius (pm): 180
+
+Covalent Radius (pm): 159
+
+Ionic Radius: 90.8 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.173
+
+First Ionizing Energy (kJ/mol): 567
+
+Oxidation States: 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.590
+       

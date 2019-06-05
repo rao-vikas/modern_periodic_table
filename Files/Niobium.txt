@@ -1,0 +1,38 @@
+NIOBIUM
+
+Symbol: Nb
+
+Atomic Number: 41
+
+Atomic Weight: 92.90638
+
+Discovery: Charles Hatchet 1801 (England)
+
+Electron Configuration: [Kr] 5s1 4d4
+
+Element Classification: Transition Metal
+
+Density (g/cc): 8.57
+
+Melting Point (K): 2741
+
+Boiling Point (K): 5015
+
+Appearance: shiny white, soft, ductile metal
+
+Atomic Radius (pm): 146
+
+Covalent Radius (pm): 134
+
+Ionic Radius: 69 (+5e)
+
+Specific Heat (@20°C J/g mol): 0.268
+
+First Ionizing Energy (kJ/mol): 663.6
+
+Oxidation States: 5, 3
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 3.300
+        

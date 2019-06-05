@@ -1,0 +1,38 @@
+HAFNIUM
+
+Symbol: Hf
+
+Atomic Number: 72
+
+Atomic Weight: 178.49
+
+Discovery: Dirk Coster and Georg von Hevesy 1923 (Denmark)
+
+Electron Configuration: [Xe] 4f14 5d2 6s2
+
+Element Classification: Transition Metal
+
+Density (g/cc): 13.31
+
+Melting Point (K): 2503
+
+Boiling Point (K): 5470
+
+Appearance: silvery, ductile metal
+
+Atomic Radius (pm): 167
+
+Covalent Radius (pm): 144
+
+Ionic Radius: 78 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.146
+
+First Ionizing Energy (kJ/mol): 575.2
+
+Oxidation States: 4
+
+Lattice Structure: hexagonal
+
+Lattice Constant (Å): 3.200
+    

@@ -1,0 +1,38 @@
+XENON
+
+Symbol: Xe
+
+Atomic Number: 54
+
+Atomic Weight: 131.29
+
+Discovery: Sir William Ramsay; M. W. Travers, 1898 (England)
+
+Electron Configuration: [Kr] 5s2 4d10 5p6
+
+Element Classification: Inert Gas
+
+Density (g/cc): 3.52 
+
+Melting Point (K): 161.3
+
+Boiling Point (K): 166.1
+
+Appearance: heavy, colorless, odourless noble gas
+
+Atomic Volume (cc/mol): 42.9
+
+Covalent Radius (pm): 131
+
+Specific Heat (@20°C J/g mol): 0.158
+
+Pauling Negativity Number: 0.0
+
+First Ionizing Energy (kJ/mol): 1170.0
+
+Oxidation States: 7
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 6.200
+     

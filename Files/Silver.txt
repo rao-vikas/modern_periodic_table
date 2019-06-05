@@ -1,0 +1,36 @@
+SILVER
+
+Symbol: Ag
+
+Atomic Number: 47
+
+Atomic Weight: 107.8682
+
+Discovery: Known since prehistoric time.
+
+Electron Configuration: [Kr] 5s1 4d10
+
+Element Classification: Transition Metal
+
+Density (g/cc): 10.5
+
+Appearance: silvery, ductile, malleable metal
+
+Isotopes: There are 38 known isotopes of silver ranging from Ag-93 to Ag-130.
+
+Atomic Radius (pm): 144
+
+Covalent Radius (pm): 134
+
+Ionic Radius: 89 (+2e) 126 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.237
+
+First Ionizing Energy (kJ/mol): 730.5
+
+Oxidation States: +1 (most common), +2 (less common), +3 (less common)
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 4.090
+       

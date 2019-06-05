@@ -1,0 +1,38 @@
+CADMIUM
+
+Cadmium Symbol: Cd
+
+Cadmium Atomic Number: 48
+
+Cadmium Atomic Weight: 112.411
+
+Cadmium Discovery: Fredrich Stromeyer 1817 (Germany)
+
+Electron Configuration: [Kr] 4d10 5s2
+
+Element Classification: Transition Metal
+
+Density (g/cc): 8.65
+
+Melting Point (K): 594.1
+
+Boiling Point (K): 1038
+
+Appearance: soft, malleable, blue-white metal
+
+Atomic Radius (pm): 154
+
+Covalent Radius (pm): 148
+
+Ionic Radius: 97 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.232
+
+First Ionizing Energy (kJ/mol): 867.2
+
+Oxidation States: 2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 2.980
+        

@@ -1,0 +1,38 @@
+NITROGEN
+
+Symbol: N 
+
+Nitrogen Atomic Number: 7
+
+Nitrogen Atomic Weight: 14.00674
+
+Nitrogen Discovery: Daniel Rutherford 1772 (Scotland)
+
+Electron Configuration: [He] 2s2 2p3
+
+Element Classification: Non-Metal
+
+Density (g/cc): 0.808 (@ -195.8°C)
+
+Isotopes: There are 16 known isotopes of nitrogen ranging from N-10 to N-25.
+ 
+Appearance: colorless, odourless, tasteless, and mainly inert gas
+
+Atomic Radius (pm): 92
+
+Covalent Radius (pm): 75
+
+Ionic Radius: 13 (+5e) 171 (-3e)
+
+Specific Heat (@20°C J/g mol): 1.042 (N-N)
+
+Pauling Negativity Number: 3.04
+
+First Ionizing Energy (kJ/mol): 1401.5
+
+Oxidation States: 5, 4, 3, 2, -3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 4.039
+      

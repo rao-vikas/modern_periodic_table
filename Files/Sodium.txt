@@ -1,0 +1,36 @@
+SODIUM
+
+Symbol: Na
+
+Atomic Number: 11
+
+Atomic Weight: 22.989768
+
+Element Classification: Alkali Metal
+
+State at room temperature (300 K): Solid
+
+Appearance: soft, bright silvery white metal
+
+Density: 0.966 g/cc
+
+Melting Point: 370.944 K
+
+Boiling Point: 1156.09 K
+
+Specific Heat: 0.647 J/g·K (at 20 °C)
+
+Oxidation States: +1 (most common), -1
+
+Electronegativity: 0.93
+
+Electron Affinity: 52.848 kJ/mol
+
+Atomic Radius: 1.86 Å
+
+Ionic Radius: 97 (+1e)
+
+Covalent Radius: 1.6 Å
+
+Number of isotopes: 18 isotopes are known. Only two are naturally occurring.
+       

@@ -1,0 +1,34 @@
+PROTACTINIUM
+
+Symbol: Pa
+
+Atomic Number: 91
+
+Atomic Weight: 231.03588
+
+Discovery: Fajans & Gohring 1913
+
+Electron Configuration: [Rn] 7s2 5f2 6d1
+
+Element Classification: Radioactive Rare Earth (Actinide)
+
+Density (g/cc): 15.37
+
+Melting Point (K): 2113
+
+Boiling Point (K): 4300
+
+Appearance: silvery-white, radioactive metal
+
+Atomic Radius (pm): 161
+
+Ionic Radius: 89 (+5e) 113 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.121
+
+Oxidation States: 5, 4
+
+Lattice Structure: Tetragonal
+
+Lattice Constant (Å): 3.920
+       

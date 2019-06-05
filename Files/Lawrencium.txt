@@ -1,0 +1,23 @@
+LAWRENCIUM
+
+Symbol: Lr
+
+Atomic Number: 103
+
+Atomic Weight: 262.11
+
+Discovery: A. Ghiorso, T. Sikkeland, A.E. Larsh, R.M. Latimer (1961 United States)
+
+Electron Configuration: [Rn] 5f14 6d1 7s2
+
+Element Classification: Radioactive Rare Earth (Actinide Series)
+
+Name Origin: Named in honor of Ernest O. Lawrence, inventor of the cyclotron.
+
+Appearance: Radioactive, synthetic metal
+
+Atomic Radius (pm): 282
+
+Oxidation States: 3
+
+       

@@ -1,0 +1,36 @@
+LEAD
+
+Symbol: Pb
+
+Atomic Number: 82
+
+Atomic Weight: 207.2
+
+Electronic Configuration: [Xe] 4f14 5d10 6s2 6p2
+
+Discovery: Known to the ancients, with a history dating back at least 7000 years.
+
+Element Group: Basic Metal
+
+Density (g/cc): 11.35
+
+Melting Point (°K): 600.65
+
+Boiling Point (°K): 2013
+
+Atomic Radius (pm): 175
+
+Covalent Radius (pm): 147
+
+Ionic Radius: 84 (+4e) 120 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.159
+
+First Ionizing Energy (kJ/mol): 715.2
+
+Oxidation States: 4, 2
+
+Lattice Structure: Face-Centered Cubic (FCC)
+
+Lattice Constant (Å): 4.950
+      

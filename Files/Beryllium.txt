@@ -1,0 +1,40 @@
+BERYLLIUM 
+
+Symbol: Be
+
+Atomic Number: 4
+
+Atomic Weight: 9.012182(3)
+
+Discovery: 1798, Louis-Nicholas Vauquelin (France)
+
+Electron Configuration: [He]2s2
+
+Element Classification: Alkaline-earth Metal
+
+Isotopes: Beryllium has ten known isotopes, ranging from Be-5 to Be-14. Be-9 is the only stable isotope.
+
+Density (g/cc): 1.848
+
+Appearance: hard, brittle, steel-gray metal
+
+Melting Point: 1287 °C
+
+Boiling Point: 2471 °C
+
+Atomic Radius (pm): 112
+
+Covalent Radius (pm): 90
+
+Ionic Radius: 35 (+2e)
+
+Specific Heat (@20°C J/g mol): 1.824
+
+First Ionizing Energy (kJ/mol): 898.8
+
+Oxidation States: 2
+
+Lattice Structure:Hexagonal
+
+Lattice Constant (Å): 2.290")
+        

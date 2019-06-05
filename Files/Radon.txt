@@ -1,0 +1,28 @@
+RADON
+
+Symbol: Rn
+
+Atomic Number: 86
+
+Atomic Weight: 222.0176
+
+Discovery: Fredrich Ernst Dorn 1898 or 1900 (Germany)
+
+Electron Configuration: [Xe] 4f14 5d10 6s2 6p6
+
+Element Classification: Inert Gas
+
+Density (g/cc): 4.4 
+
+Melting Point (K): 202
+
+Boiling Point (K): 211.4
+
+Appearance: heavy radioactive gas
+
+Specific Heat (@20°C J/g mol): 0.094
+
+First Ionizing Energy (kJ/mol): 1036.5
+
+Lattice Structure: Face-Centered Cubic
+      

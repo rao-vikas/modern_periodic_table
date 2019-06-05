@@ -1,0 +1,38 @@
+BARIUM
+
+Symbol: Ba
+
+Atomic Number: 56
+
+Atomic Weight: 137.327
+
+Discovery: Sir Humphrey Davy 1808 (England)
+
+Electron Configuration: [Xe] 6s2
+
+Element Classification: Alkaline-earth Metal
+
+Density (g/cc): 3.5
+
+Melting Point (K): 1002
+
+Boiling Point (K): 1910
+
+Appearance: soft, slightly malleable, silver-white metal
+
+Atomic Radius (pm): 222
+
+Covalent Radius (pm): 198
+
+Ionic Radius: 134 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.192
+
+First Ionizing Energy (kJ/mol): 502.5
+
+Oxidation States: 2
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 5.020")
+        

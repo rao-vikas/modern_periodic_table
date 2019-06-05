@@ -1,0 +1,37 @@
+RHENIUM
+
+Symbol: Re
+
+Atomic Number: 75
+
+Atomic Weight: 186.207
+
+Electron Configuration: [Xe] 4f14 5d5 6s2
+
+Element Classification: Transition Metal
+
+Discovery: Walter Noddack, Ida Tacke, Otto Berg 1925 (Germany)
+
+Density (g/cc): 21.02
+
+Melting Point (K): 3453
+
+Boiling Point (K): 5900
+
+Appearance: dense, silvery-white metal
+
+Atomic Radius (pm): 137
+
+Covalent Radius (pm): 128
+
+Ionic Radius: 53 (+7e) 72 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.138
+
+First Ionizing Energy (kJ/mol): 759.1
+
+Oxidation States: 5, 4, 3, 2, -1
+
+Lattice Structure: hexagonal
+
+Lattice Constant (Å): 2.760

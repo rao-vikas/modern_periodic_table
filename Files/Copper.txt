@@ -1,0 +1,40 @@
+COPPER
+
+Symbol: Cu
+
+Atomic Number: 29
+
+Atomic Weight: 63.546
+
+Discovery: Copper has been known since prehistoric time.
+
+Electron Configuration: [Ar] 4s1 3d10
+
+Element Classification: Transition Metal
+
+Isotopes: There are 28 known isotopes of copper ranging from Cu-53 to Cu-80.
+
+Density (g/cc): 8.96
+
+Melting Point (K): 1356.6
+
+Boiling Point (K): 2840
+
+Appearance: Malleable, ductile, reddish-brown metal
+
+Atomic Radius (pm): 128
+
+Covalent Radius (pm): 117
+
+Ionic Radius: 72 (+2e) 96 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.385
+
+First Ionizing Energy (kJ/mol): 745.0
+
+Oxidation States: 2, 1
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 3.610
+       

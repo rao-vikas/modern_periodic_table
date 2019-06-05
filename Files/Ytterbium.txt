@@ -1,0 +1,36 @@
+YTTERBIUM
+
+Symbol: Yb
+
+Atomic Number: 70
+
+Atomic Weight: 173.04
+
+Discovery: Jean de Marignac 1878 (Switzerland)
+
+Electron Configuration: [Xe] 4f14 6s2
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 6.9654
+
+Melting Point (K): 1097
+
+Boiling Point (K): 1466
+
+Appearance: silvery, lustrous, malleable, and ductile metal
+
+Atomic Radius (pm): 194
+
+Ionic Radius: 85.8 (+3e) 93 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.145
+
+First Ionizing Energy (kJ/mol): 603
+
+Oxidation States: 3, 2
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 5.490
+       

@@ -1,0 +1,36 @@
+GOLD
+
+Symbol: Au
+
+Atomic Number: 79
+
+Atomic Weight: 196.9665
+
+Discovery: known since prehistoric time
+
+Electron Configuration: [Xe] 6s1 4f14 5d10
+
+Isotopes: There are 36 known isotopes of gold ranging from Au-170 to Au-205. 
+
+Density (g/cc): 19.3
+
+Melting Point (°K): 1337.58
+
+Boiling Point (°K): 3080
+
+Appearance: soft, malleable, yellow metal
+
+Atomic Radius (pm): 146
+
+Covalent Radius (pm): 134
+
+Ionic Radius: 85 (+3e) 137 (+1e\n\nSpecific Heat (@20°C J/g mol): 0.129
+
+First Ionizing Energy (kJ/mol): 889.3
+
+Oxidation States: 3, 1. The oxidation states -1, +2 and +5 exist but are rare.
+
+Lattice Structure: Face-Centered Cubic (FCC)
+
+Lattice Constant (Å): 4.080
+      

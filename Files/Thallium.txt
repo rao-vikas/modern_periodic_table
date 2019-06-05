@@ -1,0 +1,36 @@
+THALLIUM
+
+Symbol: Tl
+
+Atomic Number: 81
+
+Atomic Weight: 204.3833
+
+Discovery: Crookes 1861
+
+Electron Configuration: [Xe] 4f14 5d10 6s2 6p1
+
+Element Classification: metal\n\nDensity (g/cc): 11.85
+
+Melting Point (°K): 576.6
+
+Boiling Point (°K): 1730
+
+Appearance: soft bluish-gray metal
+
+Atomic Radius (pm): 171
+
+Covalent Radius (pm): 148
+
+Ionic Radius: 95 (+3e) 147 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.128
+
+First Ionizing Energy (kJ/mol): 588.9
+
+Oxidation States: 3, 1
+
+Lattice Structure: hexagonal
+
+Lattice Constant (Å): 3.460
+        

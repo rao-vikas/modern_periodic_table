@@ -1,0 +1,38 @@
+OXYGEN
+
+Symbol: O
+
+Atomic Number: 8
+
+Atomic Weight: 15.9994
+
+Discovered By: Joseph Priestly, Carl Wilhelm Scheele
+
+Electron Configuration: [He] 2s2 2p4
+
+Element Classification: Non-Metal
+
+Density (g/cc): 1.149 (@ -183°C)
+
+Melting Point (K): 54.8
+
+Boiling Point (K): 90.19
+
+Appearance: Colorless, odorless, tasteless gas; pale blue liquid
+
+Covalent Radius (pm): 73
+
+Ionic Radius: 132 (-2e)
+
+Specific Heat (@20°C J/g mol): 0.916 (O-O)
+
+Pauling Negativity Number: 3.44
+
+First Ionizing Energy (kJ/mol): 1313.1
+
+Oxidation States: -2, -1
+
+Lattice Structure: Cubic
+
+Lattice Constant (Å): 6.830
+     

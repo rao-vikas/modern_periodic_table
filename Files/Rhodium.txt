@@ -1,0 +1,36 @@
+RHODIUM
+
+Symbol: Rh
+
+Atomic Number: 45
+
+Atomic Weight: 102.9055
+
+Discovery: William Wollaston 1803-1804 (England)
+
+Electron Configuration: [Kr] 5s1 4d8
+
+Element Classification: Transition Metal
+
+Density (g/cc): 12.41
+
+Melting Point (K): 2239
+
+Boiling Point (K): 4000
+
+Appearance: silvery-white, hard metal\n\nAtomic Radius (pm): 134
+
+Covalent Radius (pm): 125
+
+Ionic Radius: 68 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.244
+
+First Ionizing Energy (kJ/mol): 719.5
+
+oxidation States: 5, 4, 3, 2, 1, 0
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 3.800
+        

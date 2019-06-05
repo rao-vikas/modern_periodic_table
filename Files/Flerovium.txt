@@ -1,0 +1,18 @@
+FLEROVIUM
+
+Symbol: Fl
+
+Atomic Number: 114
+
+Atomic Weight: 289
+
+Electronic Configuration: [Rn] 5f14 6d10 7s2 7p2
+
+Discovery: December 1998, reported in January 1999 by scientists at Dubna in Russia.
+
+Name Origin: Named for the Flerov Laboratory of Nuclear Reactions in Dubna
+
+Element Classification: Metal
+
+Phase: presumably solid
+        

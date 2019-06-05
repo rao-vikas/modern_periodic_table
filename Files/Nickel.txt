@@ -1,0 +1,38 @@
+NICKEL
+
+Symbol: Ni
+
+Atomic Number: 28
+
+Atomic Weight: 58.6934
+
+Discovery: Axel Cronstedt 1751 (Sweden)
+
+Electron Configuration: [Ar] 4s2 3d8
+
+Element Classification: Transition Metal
+
+Density (g/cc): 8.902
+
+Melting Point (K): 1726
+
+Boiling Point (K): 3005
+
+Appearance: Hard, malleable, silvery-white metal
+
+Atomic Radius (pm): 124
+
+Covalent Radius (pm): 115
+
+Ionic Radius: 69 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.443
+
+First Ionizing Energy (kJ/mol): 736.2
+
+Oxidation States: 3, 2, 0. 
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 3.520
+        

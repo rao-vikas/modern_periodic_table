@@ -1,0 +1,38 @@
+STRONTIUM
+
+Symbol: Sr
+
+Atomic Number: 38
+
+Atomic Weight: 87.62
+
+Discovery: A. Crawford 1790 (Scotland)
+
+Electron Configuration: [Kr] 5s2
+
+Element Classification: alkaline-earth Metal
+
+Density (g/cc): 2.54
+
+Melting Point (K): 1042
+
+Boiling Point (K): 1657
+Appearance: silvery, malleable metal
+
+
+Atomic Radius (pm): 215
+
+Covalent Radius (pm): 191
+
+Ionic Radius: 112 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.301
+
+First Ionizing Energy (kJ/mol): 549.0
+
+Oxidation States: 2
+
+Face-Centered Cubic
+
+
+        

@@ -1,0 +1,18 @@
+ROENTGENIUM
+
+Symbol: Rg (Uuu)
+
+Atomic Number: 111
+
+Atomic Weight: 272
+
+Discovery: Hofmann, Ninov et al. GSI-Germany 1994
+
+Element Classification: Transition Metal
+
+Name Origin: Named in honor of Wilhelm Conrad Roentgen, discoverer of x-rays
+
+Electron Configuration: [Rn] 5f14 6d10 7s1
+
+
+       

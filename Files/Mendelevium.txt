@@ -1,0 +1,25 @@
+MENDELEVIUM
+
+Symbol: Md
+
+Atomic Number: 101
+
+Atomic Weight: 258.1
+
+Discovery: G.T. Seaborg, S.G. Tompson, A. Ghiorso, K. Street Jr. (1955, United States)
+
+Electron Configuration: [Rn] 7s2 5f13
+
+Element Classification: Radioactive Rare Earth Element (Actinide Series)
+
+Melting Point (K): 1100
+
+Appearance: Radioactive, synthetic metal
+
+Atomic Radius (pm): 287
+
+Pauling Negativity Number: 1.3
+
+First Ionizing Energy (kJ/mol): (635)
+
+        

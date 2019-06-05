@@ -1,0 +1,34 @@
+HELIUM
+
+Symbol: He
+
+Atomic Number: 2
+
+Atomic Weight: 4.002602
+
+Discovery: Janssen, 1868
+
+Electron Configuration: 1s2
+
+Element Classification: Noble Gas or Inert Gas
+
+Usual Phase: gas
+
+Density (g/cc): 0.1786 g/L (0 °C, 101.325 kPa)
+
+Liquid Density (g/cc): 0.125 g/mL (at its boiling point)
+
+Melting Point (K): 0.95
+
+Boiling Point (K): 4.216
+
+Ionic Radius: 93
+
+Specific Heat (@20°C J/g mol): 5.188
+
+First Ionizing Energy (kJ/mol): 2361.3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.570
+       

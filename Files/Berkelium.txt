@@ -1,0 +1,22 @@
+BERKELIUM 
+
+Symbol: Bk
+
+Atomic Number: 97
+
+Atomic Weight: 247.0703
+
+Discovery: G.T. Seaborg, S.G. Tompson, A. Ghiorso 1949 (United States)
+
+Electron Configuration: [Rn] 5f9 7s2
+
+Element Classification: Radioactive Rare Earth (Actinide)
+
+Density (g/cc): 13.25
+
+Appearance: metallic
+
+First Ionizing Energy (kJ/mol): (600)
+
+Oxidation States: 4, 3
+        

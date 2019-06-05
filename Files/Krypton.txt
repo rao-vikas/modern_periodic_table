@@ -1,0 +1,36 @@
+KRYPTON
+
+Symbol: Kr
+
+Atomic Number: 36
+
+Atomic Weight: 83.80
+
+Discovery: Sir William Ramsey, M.W. Travers, 1898 (Great Britain)
+
+Electron Configuration: [Ar] 4s2 3d10 4p6
+
+Element Classification: Inert Gas
+
+Density: 3.09 g/cm3 (@4K - solid phase)\n2.155 g/mL (@-153°C - liquid phase)\n3.425 g/L (@25°C and 1 atm - gas phase)
+
+Melting Point (K): 116.6
+
+Boiling Point (K): 120.85
+
+Appearance: dense, colorless, odorless, tasteless gas
+
+Covalent Radius (pm): 112
+
+Specific Heat (@20°C J/g mol): 0.247
+
+Pauling Negativity Number: 0.0
+
+First Ionizing Energy (kJ/mol): 1350.0
+
+Oxidation States:0, 2
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 5.720
+        

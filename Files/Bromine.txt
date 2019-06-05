@@ -1,0 +1,40 @@
+BROMINE
+
+Symbol: Br
+
+Atomic Number: 35
+
+Atomic Weight: 79.904
+
+Discovery: Antoine J. Balard (1826, France)
+
+Electron Configuration: [Ar]4s2 3d10 4p5
+
+Element Classification: Halogen
+
+Density (g/cc): 3.12
+
+Melting Point (K): 265.9
+
+Boiling Point (K): 331.9
+
+Appearance: reddish-brown liquid, metallic luster in solid form
+
+Isotopes: There are 2 stable isotopes: Br-79 (50.69% abundance) and Br-81 (49.31% abundance.
+
+Covalent Radius (pm): 114
+
+Ionic Radius: 47 (+5e) 196 (-1e)
+
+Specific Heat (@20°C J/g mol): 0.473 (Br-Br)
+
+Pauling Negativity Number: 2.96
+
+First Ionizing Energy (kJ/mol): 1142.0
+
+Oxidation States: 7, 5, 3, 1, -1
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 6.670
+       

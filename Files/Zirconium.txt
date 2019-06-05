@@ -1,0 +1,38 @@
+ZIRCONIUM
+
+Symbol: Zr
+
+Atomic Number: 40
+
+Atomic Weight: 91.224
+
+Discovery: Martin Klaproth 1789 (Germany)
+
+Electron Configuration: [Kr] 4d2 5s2
+
+Element Classification: Transition Metal
+
+Density (g/cc): 6.506
+
+Melting Point (K): 2125
+
+Boiling Point (K): 4650
+
+Appearance: grayish-white, lustrous, corrosion-resistant metal
+
+Atomic Radius (pm): 160
+
+Covalent Radius (pm): 145
+
+Ionic Radius: 79 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.281
+
+First Ionizing Energy (kJ/mol): 659.7
+
+Oxidation States: 4
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.230
+                

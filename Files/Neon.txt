@@ -1,0 +1,32 @@
+NEON
+
+Symbol: Ne
+
+Atomic Number: 10
+
+Atomic Weight: 20.1797
+
+Discovery: Sir William Ramsey, M.W. Travers 1898 (England)
+
+Electron Configuration: [He] 2s2 2p6
+
+Element Classification: Inert (Noble) Gas
+
+Density (g/cc): 1.204 (@ -246°C)
+
+Appearance: colorless, odourless, tasteless gas
+
+Covalent Radius (pm): 71
+
+Specific Heat (@20°C J/g mol): 1.029
+
+Pauling Negativity Number: 0.0
+
+First Ionizing Energy (kJ/mol): 2079.4
+
+Oxidation States: n/a
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 4.430
+        

@@ -1,0 +1,14 @@
+HASSIUM
+
+Symbol: Hs
+
+Atomic Number: 108
+
+Atomic Weight: 269
+
+Discovery: Peter Armbruster, Gottfried Munzenber, Germany in 1984
+
+Electronic Configuration: [Rn] 7s2 5f14 6d6
+
+Element Classification: Transition Metal
+      

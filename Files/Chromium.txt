@@ -1,0 +1,38 @@
+CHROMIUM
+
+Symbol: Cr
+
+Atomic Number: 24
+
+Atomic Weight: 51.9961
+
+Discovery: Louis Vauquelin 1797 (France)
+
+Electron Configuration: [Ar] 4s1 3d5
+
+Element Classification: Transition Metal
+
+Density (g/cc): 7.18
+
+Melting Point (K): 2130
+
+Boiling Point (K): 2945
+
+Appearance: very hard, crystalline, steel-grayish metal
+
+Atomic Radius (pm): 130
+
+Covalent Radius (pm): 118
+
+Ionic Radius: 52 (+6e) 63 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.488
+
+First Ionizing Energy (kJ/mol): 652.4
+
+Oxidation States: 6, 3, 2, 0
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 2.880
+       

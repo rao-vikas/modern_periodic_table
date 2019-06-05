@@ -1,0 +1,40 @@
+SULPHUR
+
+Symbol: S
+
+Atomic Number: 16
+
+Atomic Weight: 32.066
+
+Discovery: Known since prehistoric time.
+
+Electron Configuration: [Ne] 3s2 3p4
+
+Element Classification: Non-Metal
+
+Density (g/cc): 2.070
+
+Melting Point (K): 386
+
+Boiling Point (K): 717.824
+
+Appearance: tasteless, odorless, yellow, brittle solid
+
+Atomic Radius (pm): 127
+
+Covalent Radius (pm): 102
+
+Ionic Radius: 30 (+6e) 184 (-2e)
+
+Specific Heat (@20°C J/g mol): 0.732
+
+Pauling Negativity Number: 2.58
+
+First Ionizing Energy (kJ/mol): 999.0
+
+Oxidation States: 6, 4, 2, -2
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 10.470
+        

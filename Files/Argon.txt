@@ -1,0 +1,34 @@
+ARGON
+
+Symbol: Ar
+
+Atomic Number: 18
+
+Atomic Weight: 39.948
+
+Discovery: Sir William Ramsay, Baron Rayleigh, 1894 (Scotland)
+
+Electron Configuration: [Ne] 3s2 3p6
+
+Element Classification: Inert Gas
+
+Density (g/cc): 1.40 (@ -186 °C)
+
+Melting Point (K): 83.8
+
+Boiling Point (K): 87.3
+
+Appearance: colorless, tasteless, odorless noble gas
+
+Covalent Radius (pm): 98
+
+Specific Heat (@20°C J/g mol): 0.138
+
+Pauling Negativity Number: 0.0
+
+First Ionizing Energy (kJ/mol): 1519.6
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 5.260
+      

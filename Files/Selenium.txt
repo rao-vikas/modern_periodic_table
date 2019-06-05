@@ -1,0 +1,42 @@
+SELENIUM
+
+Symbol: Se
+
+Atomic Number: 34
+
+Atomic Weight: 78.96
+
+Discovery: Jöns Jakob Berzelius and Johan Gottlieb Gahn(Sweden)
+
+Electron Configuration: [Ar] 4s2 3d10 4p4
+
+Element Classification: Non-Metal
+
+Density (g/cc): 4.79
+
+Melting Point (K): 490
+
+Boiling Point (K): 958.1
+
+Appearance: soft, similar to sulphur
+
+Isotopes: Selenium has 29 known isotopes including Se-65, Se-67 to Se-94. 
+
+Atomic Radius (pm): 140
+
+Covalent Radius (pm): 116
+
+Ionic Radius: 42 (+6e) 191 (-2e)
+
+Specific Heat (@20°C J/g mol): 0.321 (Se-Se)
+
+Pauling Negativity Number: 2.55
+
+First Ionizing Energy (kJ/mol): 940.4
+
+Oxidation States: 6, 4, -2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 4.360
+       

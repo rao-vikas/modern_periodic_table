@@ -1,0 +1,38 @@
+NEODYMIUM
+
+Symbol: Nd
+
+Atomic Number: 60
+
+Atomic Weight: 144.24
+
+Discoverer: C.F. Ayer von Weisbach
+
+Electronic Configuration: [Xe] 4f4 6s2
+
+Element Classification: Rare Earth Element (Lanthanide Series)
+
+Density (g/cc): 7.007
+
+Melting Point (K): 1294
+
+Boiling Point (K): 3341
+
+Appearance: silvery-white, rare earth metal that oxidizes readily in air.
+
+Atomic Radius (pm): 182
+
+Covalent Radius (pm): 184
+
+Ionic Radius: 99.5 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.205
+
+First Ionizing Energy (kJ/mol): 531.5
+
+Oxidation States: 3
+
+Lattice Structure: hexagonal
+
+Lattice Constant (Å): 3.660
+      

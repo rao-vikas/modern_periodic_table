@@ -1,0 +1,40 @@
+GALLIUM
+
+Symbol: Ga
+
+Atomic Number: 31
+
+Atomic Weight: 69.732
+
+Discovery: Paul-Emile Lecoq de Boisbaudran 1875 (France)
+
+Electron Configuration: [Ar] 4s2 3d10 4p1
+
+Element Classification:Basic Metal
+
+Density (g/cc): 5.91
+
+Melting Point (K): 302.93
+
+Boiling Point (K): 2676
+
+Appearance: soft, blue-white metal
+
+Isotopes: There are 27 known isotopes of gallium ranging from Ga-60 to Ga-86. 
+
+Atomic Radius (pm): 141
+
+Covalent Radius (pm): 126
+
+Ionic Radius: 62 (+3e) 81 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.372
+
+First Ionizing Energy (kJ/mol): 578.7
+
+Oxidation States: +3
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 4.510
+        

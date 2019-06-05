@@ -1,0 +1,16 @@
+MEITNERIUM
+
+Symbol: Mt
+
+Atomic Number: 109
+
+Atomic Weight: 268
+
+Discovery: Armbruster, Munzenber et al. 1982 Heavy Ion Research Laboratory (Germany)
+
+Electron Configuration: [Rn] 5f14 6d7 7s2
+
+Element Classification: Transition Metal
+
+Word Origin: Named in honor of Lise Meitner
+       

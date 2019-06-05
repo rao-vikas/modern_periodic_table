@@ -1,0 +1,38 @@
+HOLMIUM
+
+Symbol: Ho
+
+Atomic Number: 67
+
+Atomic Weight: 164.93032
+
+Discovery: Delafontaine 1878 or J.L. Soret 1878 (Switzerland)
+
+Electron Configuration: [Xe] 4f11 6s2
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 8.795
+
+Melting Point (K): 1747
+
+Boiling Point (K): 2968
+
+Appearance: relatively soft, malleable, lustrous, silvery metal
+
+Atomic Radius (pm): 179
+
+Covalent Radius (pm): 158
+
+Ionic Radius: 89.4 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.164
+
+First Ionizing Energy (kJ/mol): 574
+
+Oxidation States: 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.580
+        

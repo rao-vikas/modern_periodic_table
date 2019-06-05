@@ -1,0 +1,40 @@
+IRON
+
+Symbol: Fe
+
+Atomic Number: 26
+
+Atomic Weight: 55.847
+
+Element Classification: Transition Metal
+
+Electronic Configuration: [Ar] 3d6 4s2
+
+State at room temperature (300 K): Solid
+
+Appearance: malleable, ductile, silvery metal
+
+Density: 7.870 g/cc (25 °C)
+
+Melting Point: 1811 K
+
+Boiling Point: 3133.35 K
+
+Specific Heat: 0.443 J/g·K (at 20 °C)
+
+Oxidation States: +6, +5, +4, +3, +2, +1, 0, -1, and -2
+
+Atomic Radius: 1.26 Å
+
+Ionic Radius: 64 (+3e) and 74 (+2e)
+
+Covalent Radius: 1.24 Å
+
+First Ionization Energy: 762.465 kJ/mol
+
+Number of isotopes: 14 isotopes are known.
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant: 2.870 Å
+      

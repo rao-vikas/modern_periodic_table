@@ -1,0 +1,38 @@
+RADIUM
+
+Symbol: Ra
+
+Atomic Number: 88
+
+Atomic Weight: 226.0254
+
+Discovery: Discovered by Pierre and Marie Curie in 1898 (France/Poland).
+
+Electron Configuration: [Rn] 7s2
+
+Element Classification: alkaline earth metal
+
+Density (g/cc): (5.5)
+
+Melting Point (K): 973
+
+Boiling Point (K): 1413
+
+Appearance: silvery white, radioactive element
+
+Atomic Volume (cc/mol): 45.0
+
+Ionic Radius: 143 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.120
+
+Fusion Heat (kJ/mol): (9.6)
+
+Evaporation Heat (kJ/mol): (113)
+
+Pauling Negativity Number: 0.9
+
+First Ionizing Energy (kJ/mol): 509.0
+
+Oxidation States: 2"
+        

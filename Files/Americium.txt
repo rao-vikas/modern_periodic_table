@@ -1,0 +1,28 @@
+AMERICIUM
+
+Symbol: Am
+
+Atomic Number: 95
+
+Atomic Weight: 243.0614
+
+Discovered By: G.T.Seaborg, R.A.James, L.O.Morgan, A.Ghiorso
+
+Electron Configuration: [Rn] 5f7 7s2
+
+Element Classification: Radioactive Rare Earth Element (Actinide Series)
+
+Density (g/cc): 13.67
+
+Melting Point (K): 1267
+
+Boiling Point (K): 2880
+
+Appearance: silvery-white, radioactive metal
+
+Atomic Radius (pm): 173
+
+Ionic Radius: 92 (+4e) 107 (+3e)
+
+Oxidation States: 6, 5, 4, 3
+        

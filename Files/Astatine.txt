@@ -1,0 +1,28 @@
+ASTATINE
+
+Symbol: At
+
+Atomic Number: 85
+
+Atomic Weight: 209.9871
+
+Discovery: D.R. Corson, K.R. MacKenzie, E. Segre 1940 (United States)
+
+Electron Configuration: [Xe] 6s2 4f14 5d10 6p5
+
+Element Classification: halogen
+
+Melting Point (K): 575
+
+Boiling Point (K): 610
+
+Covalent Radius (pm): (145)
+
+Ionic Radius: 62 (+7e)
+
+Pauling Negativity Number: 2.2
+
+First Ionizing Energy (kJ/mol): 916.3
+
+Oxidation States: 7, 5, 3, 1, -1
+        

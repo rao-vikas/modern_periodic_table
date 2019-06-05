@@ -1,0 +1,34 @@
+POTASSIUM
+
+Symbol: K
+
+Atomic Number: 19
+
+Atomic Weight: 39.0983
+
+Discovery: Sir Humphrey Davy 1807 (England)
+
+Electronic Configuration: [Ar]4s1
+
+Element Classification: Alkali Metal
+
+Density (g/cc): 0.856
+
+Appearance: soft, waxy, silvery-white metal
+
+Atomic Radius (pm): 235
+
+Covalent Radius (pm): 203
+
+Ionic Radius: 133 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.753
+
+First Ionizing Energy (kJ/mol): 418.5
+
+Oxidation States: 1
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 5.230
+        

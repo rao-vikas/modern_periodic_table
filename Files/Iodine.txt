@@ -1,0 +1,36 @@
+IODINE
+
+Iodine Symbol: I
+
+Atomic Number: 53
+
+Atomic Weight: 126.90447
+
+Discovery: Bernard Courtois 1811 (France)
+
+Electron Configuration: [Kr] 4d10 5s2 5p5
+
+Element Classification: Halogen\n\nDensity (g/cc): 4.93
+
+Melting Point (K): 386.7
+
+Boiling Point (K): 457.5
+
+Appearance: shiny, black nonmetallic solid
+
+Covalent Radius (pm): 133
+
+Ionic Radius: 50 (+7e) 220 (-1e)
+
+Specific Heat (@20°C J/g mol): 0.427 (I-I)
+
+Pauling Negativity Number: 2.66
+
+First Ionizing Energy (kJ/mol): 1008.3
+
+Oxidation States: 7, 5, 1, -1
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 7.720
+       

@@ -1,0 +1,40 @@
+CHLORINE
+
+Symbol: Cl
+
+Atomic Number: 17
+
+Atomic Weight: 35.4527
+
+Discovery: Carl Wilhelm Scheele 1774 (Sweden)
+
+Electron Configuration: [Ne] 3s2 3p5
+
+Element Classification: Halogen
+
+Density (g/cc): 1.56 (@ -33.6 °C)
+
+Melting Point (K): 172.2
+
+Boiling Point (K): 238.6
+
+Appearance: greenish-yellow, irritating gas.
+
+Isotopes: Cl-35 and Cl-37 are both stable isotopes with Cl-35 as the most abundant form (75.8%).
+
+Covalent Radius (pm): 99
+
+Ionic Radius: 27 (+7e) 181 (-1e)
+
+Specific Heat (@20°C J/g mol): 0.477 (Cl-Cl)
+
+Pauling Negativity Number: 3.16
+
+First Ionizing Energy (kJ/mol): 1254.9
+
+Oxidation States: 7, 5, 3, 1, -1
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 6.240
+        

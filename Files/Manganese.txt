@@ -1,0 +1,36 @@
+MANGANESE
+
+Symbol: Mn
+
+Atomic Number: 25
+
+Atomic Weight: 54.93805
+
+Discovery: Johann Gahn, Scheele, & Bergman 1774 (Sweden)
+
+Electron Configuration: [Ar]4s2 3d5
+
+Element Classification: Transition Metal
+
+Melting Point (K): 1517
+
+Boiling Point (K): 2235
+
+Appearance: Hard, brittle, grayish-white metal
+
+Atomic Radius (pm): 135
+
+Covalent Radius (pm): 117
+
+Ionic Radius: 46 (+7e) 80 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.477
+
+First Ionizing Energy (kJ/mol): 716.8
+
+Oxidation States: 7, 6, 4, 3, 2, 0, -1 
+
+Lattice Structure: Cubic
+
+Lattice Constant (Å): 8.890
+   

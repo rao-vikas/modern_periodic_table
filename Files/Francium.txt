@@ -1,0 +1,28 @@
+FRANCIUM
+
+Symbol: Fr
+
+Atomic Number: 87
+
+Atomic Weight: 223.0197
+
+Discovery: Discovered in 1939 by Marguerite Perey of the Curie Institute, Paris (France).
+
+Electron Configuration: [Rn] 7s1
+
+Element Classification: alkali Metal
+
+Melting Point (K): 300
+
+Boiling Point (K): 950
+
+Ionic Radius: 180 (+1e)
+
+Fusion Heat (kJ/mol): 15.7
+
+First Ionizing Energy (kJ/mol): ~375
+
+Oxidation States: 1
+
+Lattice Structure: Body-Centered Cubic")
+        

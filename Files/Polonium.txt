@@ -1,0 +1,26 @@
+POLONIUM
+
+Symbol: Po
+
+Atomic Number: 84
+
+Atomic weight: 208.9824
+
+Discovery: Curie 1898
+
+Electron configuration: [Xe] 4f14 5d10 6s2 6p4
+
+Classification: semi-metal
+
+Ionization potential: 8.414 ev
+
+Physical form: Silvery metal
+
+Melting point: 254°C
+
+Boiling point: 962°C
+
+Density: 9.20 g/cm3
+
+Valence: 2, 4
+        

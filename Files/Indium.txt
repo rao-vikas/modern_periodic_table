@@ -1,0 +1,38 @@
+INDIUM
+
+Symbol: In
+
+Atomic Number: 49
+
+Atomic Weight: 114.818
+
+Discovery: Ferdinand Reich and T. Richter 1863 (Germany)
+
+Electron Configuration: [Kr] 5s2 4d10 5p1
+
+Element Classification: Metal
+
+Density (g/cc): 7.31
+
+Melting Point (K): 429.32
+
+Boiling Point (K): 2353
+
+Appearance: very soft, silvery-white metal
+
+Atomic Radius (pm): 166
+
+Covalent Radius (pm): 144
+
+Ionic Radius: 81 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.234
+
+First Ionizing Energy (kJ/mol): 558.0
+
+Oxidation States: 3
+
+Lattice Structure: Tetragonal
+
+Lattice Constant (Å): 4.590
+        

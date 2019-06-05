@@ -1,0 +1,36 @@
+RUBIDIUM
+
+Symbol: Rb
+
+Atomic Number: 37
+
+Atomic Weight: 85.4678
+
+Discovery: R. Bunsen, G. Kirchoff 1861 (Germany), discovered rubidium in the mineral petalite via its dark red spectral lines.
+
+Electron Configuration: [Kr] 5s1
+
+Element Classification: Alkali Metal
+
+Density (g/cc): 1.532
+
+Melting Point (K): 312.2
+
+Boiling Point (K): 961
+
+Appearance: soft, silvery-white, highly reactive metal
+
+Atomic Radius (pm): 248
+
+Covalent Radius (pm): 216
+
+Ionic Radius: 147 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.360
+
+Oxidation States: +1
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 5.590")
+        

@@ -1,0 +1,38 @@
+TITANIUM
+
+Symbol: Ti
+
+Atomic Number: 22
+
+Atomic Weight: 47.88
+
+Discovery: William Gregor 1791 (England)
+
+Electron Configuration: [Ar] 4s2 3d2
+
+Element Classification: Transition Metal
+
+Density (g/cc): 4.54
+
+Melting Point (K): 1933
+
+Boiling Point (K): 3560
+
+Appearance: Shiny, dark-gray metal
+
+Atomic Radius (pm): 147
+
+Covalent Radius (pm): 132
+
+Ionic Radius: 68 (+4e) 94 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.523
+
+First Ionizing Energy (kJ/mol): 657.8
+
+Oxidation States: 4, 3
+
+Lattice Structure: 1.588
+
+Lattice Constant (Å): 2.950
+        

@@ -1,0 +1,38 @@
+YTTRIUM
+
+Symbol: Y
+
+Atomic Number: 39
+
+Atomic Weight: 88.90585
+
+Discovery: Johann Gadolin 1794 (Finland)
+
+Electron Configuration: [Kr] 5s1 4d1
+
+Element Classification: Transition Metal
+
+Density (g/cc): 4.47
+
+Melting Point (K): 1795
+
+Boiling Point (K): 3611
+
+Appearance: silvery, ductile, moderately reactive metal
+
+Atomic Radius (pm): 178
+
+Covalent Radius (pm): 162
+
+Ionic Radius: 89.3 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.284
+
+First Ionizing Energy (kJ/mol): 615.4
+
+Oxidation States: 3
+
+Lattice Structure: hexagonal
+
+Lattice Constant (Å): 3.650
+       

@@ -1,0 +1,38 @@
+SCANDIUM
+
+Symbol: Sc
+
+Atomic Number: 21
+
+Atomic Weight: 44.95591
+
+Discovery: Lars Nilson 1878 (Sweden)
+
+Electron Configuration: [Ar] 4s2 3d1
+
+Element Classification: Transition Metal
+
+Density (g/cc): 2.99
+
+Melting Point (K): 1814
+
+Boiling Point (K): 3104
+
+Appearance: somewhat soft, silvery-white metal
+
+Atomic Radius (pm): 162
+
+Covalent Radius (pm): 144
+
+Ionic Radius: 72.3 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.556
+
+First Ionizing Energy (kJ/mol): 630.8
+
+Oxidation States: 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.310
+        

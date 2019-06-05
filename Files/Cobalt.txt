@@ -1,0 +1,38 @@
+COBALT
+
+Symbol: Co
+
+Atomic Number: 27
+
+Atomic Weight: 58.9332
+
+Discovery: George Brandt, circa 1735, maybe 1739 (Sweden)
+
+Electron Configuration: [Ar] 4s2 3d7
+
+Element Classification: Transition Metal
+
+Density (g/cc): 8.9
+
+Melting Point (K): 1768
+
+Boiling Point (K): 3143
+
+Appearance: Hard, ductile, lustrous bluish-gray metal
+
+Atomic Radius (pm): 125
+
+Covalent Radius (pm): 116
+
+Ionic Radius: 63 (+3e) 72 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.456
+
+First Ionizing Energy (kJ/mol): 758.1
+
+Oxidation States: 3, 2, 0, -1
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 2.510
+       

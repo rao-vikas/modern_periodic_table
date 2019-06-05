@@ -1,0 +1,38 @@
+CARBON
+
+Symbol: C
+
+Atomic Number: 6
+
+Atomic Weight: 12.011
+
+Discovery: Carbon exists free in nature and has been known since prehistoric time.
+
+Electron Configuration: [He] 2s2 2p2
+
+Element Classification: Non-Metal
+
+Density (g/cc): 2.25 (graphite)
+
+Melting Point (K): 3820
+
+Boiling Point (K): 5100
+
+Appearance: dense, black (carbon black)
+
+Atomic Radius: 70 pm
+
+Covalent Radius: 77 pm
+
+Ionic Radius: 16 (+4e) 260 (-4e)
+
+Specific Heat (@20°C J/g mol): 0.711
+
+First Ionizing Energy (kJ/mol): 1085.7
+
+Oxidation States: 4, 2, -4
+
+Lattice Structure: Diagonal
+
+Lattice Constant (Å): 3.570
+        

@@ -1,0 +1,38 @@
+TANTALUM
+
+Symbol: Ta
+
+Atomic Number: 73
+
+Atomic Weight: 180.9479
+
+Discovery: Anders Ekeberg 1802 (Sweden)
+
+Electron Configuration: [Xe] 6s2 4f14 5d3
+
+Element Classification: Transition Metal
+
+Density (g/cc): 16.654
+
+Melting Point (K): 3269
+
+Boiling Point (K): 5698
+
+Appearance: heavy, hard gray metal
+
+Atomic Radius (pm): 149
+
+Covalent Radius (pm): 134
+
+Ionic Radius: 68 (+5e)
+
+Specific Heat (@20°C J/g mol): 0.140
+
+First Ionizing Energy (kJ/mol): 760.1
+
+Oxidation States: 5
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 3.310
+       

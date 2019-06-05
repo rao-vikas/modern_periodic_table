@@ -1,0 +1,40 @@
+ANTIMONY
+
+Symbol: Sb
+
+Atomic Number: 51
+
+Atomic Weight: 121.760
+
+Discovery: Antimony compounds have been known since ancient time.
+
+Electron Configuration: [Kr] 5s2 4d10 5p
+
+Element Classification: Semimetallic
+
+Density (g/cc): 6.691
+
+Melting Point (K): 903.9
+
+Boiling Point (K): 1908
+
+Appearance: hard, silvery-white, brittle semi-metal
+
+Atomic Radius (pm): 159
+
+Covalent Radius (pm): 140
+
+Ionic Radius: 62 (+6e) 245 (-3)
+
+Specific Heat (@20°C J/g mol): 0.205
+
+Pauling Negativity Number: 2.05
+
+First Ionizing Energy (kJ/mol): 833.3
+
+Oxidation States: 5, 3, -2
+
+Lattice Structure: Rhombohedral
+
+Lattice Constant (Å): 4.510
+       

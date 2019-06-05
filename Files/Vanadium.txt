@@ -1,0 +1,39 @@
+VANADIUM
+
+Symbol: V
+
+Atomic Number: 23
+
+Atomic Weight: 50.9415
+
+Discovery: Nils Gabriel Sefstrom 1830 (Sweden)
+
+Electron Configuration: [Ar] 4s2 3d3
+
+Element Classification: Transition Metal
+
+Density (g/cc): 6.11
+
+Melting Point (K): 2160
+
+Boiling Point (K): 3650
+
+Appearance: soft, ductile, silvery-white metal
+
+Atomic Radius (pm): 134
+
+Covalent Radius (pm): 122
+
+Ionic Radius: 59 (+5e) 74 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.485
+
+First Ionizing Energy (kJ/mol): 650.1
+
+Oxidation States: 5, 4, 3, 2, 0
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 3.020
+
+        

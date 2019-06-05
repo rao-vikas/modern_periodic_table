@@ -1,0 +1,40 @@
+SILICON
+
+Symbol: Si
+
+Atomic Number: 14
+
+Atomic Weight: 28.0855
+
+Discovery: Jons Jacob Berzelius 1824 (Sweden)
+
+Electron Configuration: [Ne] 3s2 3p2
+
+Element Classification: Semimetallic
+
+Isotopes: There are known isotopes of silicon ranging from Si-22 to Si-44.
+
+Density (g/cc): 2.33
+
+Melting Point (K): 1683
+
+Boiling Point (K): 2628
+
+Appearance: Amorphous form is brown powder.
+
+Atomic Radius (pm): 132
+
+Covalent Radius (pm): 111
+
+Ionic Radius: 42 (+4e) 271 (-4e)
+
+Specific Heat (@20°C J/g mol): 0.703
+
+First Ionizing Energy (kJ/mol): 786.0
+
+Oxidation States: 4, -4
+
+Lattice Structure: Diagonal
+
+Lattice Constant (Å): 5.430
+      

@@ -1,0 +1,38 @@
+THULIUM
+
+Symbol: Tm
+
+Atomic Number: 69
+
+Atomic Weight: 168.93421
+
+Discovery: Per Theodor Cleve 1879 (Sweden)
+
+Electron Configuration: [Xe] 4f13 6s2
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 9.321
+
+Melting Point (K): 1818
+
+Boiling Point (K): 2220
+
+Appearance: soft, malleable, ductile, silvery metal
+
+Atomic Radius (pm): 177
+
+Covalent Radius (pm): 156
+
+Ionic Radius: 87 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.160
+
+First Ionizing Energy (kJ/mol): 589
+
+Oxidation States: 3, 2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.540
+     

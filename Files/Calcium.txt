@@ -1,0 +1,42 @@
+CALCIUM
+
+Symbol: Ca
+
+Atomic Number: 20
+
+Atomic Weight: 40.078
+
+Classification: Alkaline Earth
+ 
+Calcium Electron Configuration: [Ar]4s2
+ 
+Discoverer: Sir Humphrey Davy [England]
+
+Number of Naturally Occurring Isotopes: 6
+
+State at room temperature (300 K): Solid
+
+Appearance: fairly hard, silvery white metal
+
+Density: 1.55 g/cc
+
+Melting Point: 1115 K
+
+Boiling Point: 1757 K
+
+Specific Heat: 0.647 J/g·K (at 20 °C)
+
+Oxidation States: +2 (most common), +1
+
+Atomic Radius: 197 pm
+
+Ionic Radius: 99 (+2e)
+
+Covalent Radius: 174 pm
+
+First Ionization Energy: 589.830 kJ/mol
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant: 5.580 Å")
+        

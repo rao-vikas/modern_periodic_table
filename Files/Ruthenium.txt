@@ -1,0 +1,38 @@
+RUTHENIUM
+
+Symbol: Ru
+
+Atomic Number: 44
+
+Atomic Weight: 101.07
+
+Electron Configuration: [Kr] 4d7 5s1
+
+Element Classification: Transition Metal
+
+Discovery: Karl Klaus 1844 (Russia)
+
+Density (g/cc): 12.41
+
+Melting Point (K): 2583
+
+Boiling Point (K): 4173
+
+Appearance: silvery-gray, extremely brittle metal
+
+Atomic Radius (pm): 134
+
+Covalent Radius (pm): 125
+
+Ionic Radius: 67 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.238
+
+First Ionizing Energy (kJ/mol): 710.3
+
+Oxidation States: 8, 6, 4, 3, 2, 0, -2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 2.700
+        

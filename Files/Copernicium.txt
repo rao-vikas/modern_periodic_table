@@ -1,0 +1,14 @@
+COPERNICIUM
+
+Symbol: Cn
+
+Atomic Number: 112
+
+Atomic Weight: 277
+
+Discovery: Hofmann, Ninov et al. GSI-Germany 1996
+
+Electron Configuration: [Rn] 5f14 6d10 7s2
+
+Element Classification: Transition Metal
+       

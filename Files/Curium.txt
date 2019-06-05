@@ -1,0 +1,26 @@
+CURIUM
+
+Symbol: Cm
+
+Atomic Number: 96
+
+Atomic Weight: 247.0703
+
+Discovery: G.T.Seaborg, R.A.James, A.Ghiorso, 1944 (United States)
+
+Electron Configuration: [Rn] 5f7 6d1 7s2
+
+Element Classification: Radioactive Rare Earth Element (Actinide Series)
+
+Density (g/cc): 13.51
+
+Melting Point (K): 1340
+
+Appearance: silvery, malleable, synthetic radioactive metal
+
+Atomic Radius (pm): 299
+
+First Ionizing Energy (kJ/mol): (580)
+
+Oxidation States: 4, 3
+    

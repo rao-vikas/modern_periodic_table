@@ -1,0 +1,38 @@
+IRIDIUM
+
+Symbol: Ir
+
+Atomic Number: 77
+
+Atomic Weight: 192.22
+
+Discovery: S.Tenant, A.F.Fourcory, L.N.Vauquelin, (England/France)
+
+Electron Configuration: [Xe] 6s2 4f14 5d7
+
+Element Classification: Transition Metal
+
+Density (g/cc): 22.42
+
+Melting Point (K): 2683
+
+Boiling Point (K): 4403
+
+Appearance: white, brittle metal
+
+Atomic Radius (pm): 136
+
+Covalent Radius (pm): 127
+
+Ionic Radius: 68 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.133
+
+First Ionizing Energy (kJ/mol): 868.1
+
+Oxidation States: 6, 4, 3, 2, 1, 0, -1
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 3.840
+        

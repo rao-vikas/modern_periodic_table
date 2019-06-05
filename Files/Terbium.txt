@@ -1,0 +1,38 @@
+TERBIUM
+
+Symbol: Tb
+
+Atomic Number: 65
+
+Atomic Weight: 158.92534
+
+Discovery: Carl Mosander 1843 (Sweden)
+
+Electron Configuration: [Xe] 4f9 6s2
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 8.229
+
+Melting Point (K): 1629
+
+Boiling Point (K): 3296
+
+Appearance: soft, ductile, silvery-gray, rare-earth metal
+
+Atomic Radius (pm): 180
+
+Covalent Radius (pm): 159
+
+Ionic Radius: 84 (+4e) 92.3 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.183
+
+First Ionizing Energy (kJ/mol): 569
+
+Oxidation States: 4, 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.600
+     

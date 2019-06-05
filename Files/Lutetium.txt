@@ -1,0 +1,38 @@
+LUTETIUM
+
+Symbol: Lu
+
+Atomic Number: 71
+
+Atomic Weight: 174.967
+
+Discovery: Georges Urbain 1907 (France)
+
+Electron Configuration: [Xe] 4f14 5d1 6s2
+
+Element Classification: Rare Earth (Lanthanide Series)
+
+Density (g/cc): 9.8404
+
+Melting Point (K): 1936
+
+Boiling Point (K): 3668
+
+Appearance: silvery-white, hard, dense metal
+
+Atomic Radius (pm): 175
+
+Covalent Radius (pm): 156
+
+Ionic Radius: 85 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.155
+
+First Ionizing Energy (kJ/mol): 513
+
+Oxidation States: 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.510
+        

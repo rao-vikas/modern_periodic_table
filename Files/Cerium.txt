@@ -1,0 +1,38 @@
+CERIUM
+
+Symbol: Ce
+
+Atomic Number: 58
+
+Atomic Weight: 140.115
+
+Discovered By: W. von Hisinger, J. Berzelius, M. Klaproth
+
+Electronic Configuration: [Xe] 4f1 5d1 6s2
+
+Element Classification: Rare Earth Element (Lanthanide Series)
+
+Density (g/cc) near r.t.: 6.757
+
+Melting Point (°K): 1072
+
+Boiling Point (°K): 3699
+
+Appearance: Malleable, ductile, iron-gray metal
+
+Atomic Radius (pm): 181
+
+Covalent Radius (pm): 165
+
+Ionic Radius: 92 (+4e) 103.4 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.205
+
+First Ionizing Energy (kJ/mol): 540.1
+
+Oxidation States: 4, 3
+
+Lattice Structure: Face-Centered Cubic (FCC)
+
+Lattice Constant (Å): 5.160
+       

@@ -1,0 +1,38 @@
+PRASEODYMIUM
+
+Symbol: Pr
+
+Atomic Number: 59
+
+Atomic Weight: 140.90765
+
+Discoverer: C.F. Aver von Weisbach
+
+Electronic Configuration: [Xe] 4f3 6s2
+
+Element Classification: Rare Earth Element (Lanthanide Series)
+
+Density (g/cc): 6.773
+
+Melting Point: 1204 K
+
+Boiling Point: 3785 K
+
+Appearance: silvery-white, moderately soft, malleable, ductile metal
+
+Atomic Radius (pm): 182
+
+Covalent Radius (pm): 165
+
+Ionic Radius: 90 (+4e) 101.3 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.192
+
+First Ionizing Energy (kJ/mol): 526.6
+
+Oxidation States: 4, 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.670
+       

@@ -1,0 +1,25 @@
+FERMIUM
+
+Symbol: Fm
+
+Atomic Number: 100
+
+Atomic Weight: 257.0951
+
+Discovery: Argonne, Los Alamos, U. of California 1953 (United States)
+
+Electronic Configuration: [Rn] 5f12 7s2
+
+Element Classification: Radioactive Rare Earth (Actinide)
+
+Melting Point (K): 1800
+
+Appearance: radioactive, synthetic metal
+
+Atomic Radius (pm): 290
+
+Pauling Negativity Number: 1.3
+
+First Ionizing Energy (kJ/mol): (630)
+
+     

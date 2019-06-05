@@ -1,0 +1,29 @@
+PROMETHIUM
+
+Symbol: Pm
+
+Atomic Number: 61
+
+Atomic Weight: 144.9127
+
+Discoverer: J.A. Marinsky, L.E. Glendenin, C.D. Coryell
+
+Electronic Configuration: [Xe] 4f5 6s2
+
+Element Classification: Rare Earth Element (Lanthanide Series)
+
+Density (g/cc): 7.2
+
+Melting Point (K): 1441
+
+Boiling Point (K): 3000
+
+Covalent Radius (pm): 163
+
+Ionic Radius: 97.9 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.185
+
+First Ionizing Energy (kJ/mol): 536
+
+       

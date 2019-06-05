@@ -1,0 +1,36 @@
+CAESIUM
+
+Symbol: Cs
+
+Atomic Number: 55
+
+Atomic Weight: 132.90543
+
+Electronic Configuration: [Xe] 6s1
+
+Element Classification: Alkali Metal
+
+Discoverer: Gustov Kirchoff, Robert Bunsen
+
+Density (g/cc): 1.873
+
+Melting Point (K): 301.6
+
+Boiling Point (K): 951.6
+
+Appearance: extremely soft, ductile, light gray metal
+
+Atomic Radius (pm): 267
+
+Covalent Radius (pm): 235
+
+Ionic Radius: 167 (+1e)
+
+Specific Heat (@20°C J/g mol): 0.241
+
+Oxidation States: 1
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 6.050")
+        

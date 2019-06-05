@@ -1,0 +1,14 @@
+UNUNPENTIUM
+
+Symbol: Uup
+
+Atomic Number: 115
+
+Element Classification: Metal
+
+Name Origin: Un (one) un (one) pent (five)
+
+Discovery: Yuri Oganessian et al., Joint Institute of Nuclear Research in Dubna, Russia (2004).
+
+Electron Configuration: [Rn] 5f14 6d10 7s2 7p3
+       

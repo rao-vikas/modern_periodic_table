@@ -1,0 +1,38 @@
+MOLYBDENUM
+
+Symbol: Mo
+
+Atomic Number: 42
+
+Atomic Weight: 95.94
+
+Discovery: Carl Wilhelm Scheele 1778 (Sweden)
+
+Electron Configuration: [Kr] 5s1 4d5
+
+Element Classification: Transition Metal
+
+Density (g/cc): 10.22
+
+Melting Point (K): 2890
+
+Boiling Point (K): 4885
+
+Appearance: silvery white, hard metal
+
+Atomic Radius (pm): 139
+
+Covalent Radius (pm): 130
+
+Ionic Radius: 62 (+6e) 70 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.251
+
+First Ionizing Energy (kJ/mol): 684.8
+
+Oxidation States: 6, 5, 4, 3, 2, 0
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 3.150    
+       

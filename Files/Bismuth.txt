@@ -1,0 +1,40 @@
+BISMUTH
+
+Symbol: Bi
+
+Atomic Number: 83
+
+Atomic Weight: 208.98037
+
+Discovery: Known to the ancients.
+
+Electron Configuration: [Xe] 4f14 5d10 6s2 6p3
+
+Element Classification: Metal
+
+Density (g/cc): 9.747
+
+Melting Point (K): 544.5
+
+Boiling Point (K): 188
+
+Appearance: hard, brittle, steel-gray metal with a pinkish tinge.
+
+Atomic Radius (pm): 170
+
+Covalent Radius (pm): 146
+
+Ionic Radius: 74 (+5e) 96 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.124
+
+Pauling Negativity Number: 2.02
+
+First Ionizing Energy (kJ/mol): 702.9
+
+Oxidation States: 5, 3
+
+Lattice Structure: rhombohedral
+
+Lattice Constant (Å): 4.750
+        

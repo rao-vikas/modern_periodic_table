@@ -1,0 +1,22 @@
+DUBNIUM
+
+Symbol: Db
+
+Atomic Number: 105
+
+Atomic Weight: 262
+
+Discovery: A. Ghiorso, et al, L Berkeley Lab, USA
+
+Discovery Date: 1967 (USSR); 1970 (United States)
+
+Electron Configuration: [Rn] 5f14 6d3 7s2
+
+Element Classification: Transition Metal
+
+Crystal Structure: body centered cubic
+
+Name Origin: Joint Institute for Nuclear Research at Dubna
+
+Appearance: Radioactive, synthetic metal
+        

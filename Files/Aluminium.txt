@@ -1,0 +1,42 @@
+ALUMINIUM
+
+Symbol: Al
+
+Atomic Number: 13
+
+Atomic Weight:26.981539
+
+Element Classification Basic Metal
+
+Aluminum Electron Configuration: [Ne] 3s2 3p1
+
+State at room temperature (300 K): Solid
+
+Appearance: soft, light, silvery white metal
+
+Density: 2.6989 g/cc
+
+Melting Point: 933.47 K, 660.32 °C, 1220.58 °F
+
+Boiling Point: 2792 K, 2519 °C, 4566 °F
+
+Specific Heat: 24.200 J/g·K (at 20 °C)
+
+Oxidation States: +3, +2, +1
+
+Atomic Radius: 1.43 Å
+
+Atomic Volume: 10.0 cc/mol
+
+Ionic Radius: 51 (+3e)
+
+Covalent Radius: 1.24 Å
+
+First Ionization Energy: 577.539 kJ/mol
+
+Number of isotopes: Aluminum has 23 known isotopes ranging from 21-Al to 43-Al.
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant: 4.050 Å
+        

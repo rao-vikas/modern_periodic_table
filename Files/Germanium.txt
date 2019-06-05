@@ -1,0 +1,40 @@
+GERMANIUM
+
+Symbol: Ge
+
+Atomic Number: 32
+
+Atomic Weight: 72.61
+
+Discovery: Clemens Winkler 1886 (Germany)
+
+Electron Configuration: [Ar] 4s2 3d10 4p2
+
+Element Classification: Semimetallic
+
+Density (g/cc): 5.323
+
+Melting Point (K): 1210.6
+
+Boiling Point (K): 3103
+
+Appearance: grayish-white metal
+
+Isotopes: There are 30 known isotopes of germanium ranging from Ge-60 to Ge-89. 
+
+Atomic Radius (pm): 137
+
+Covalent Radius (pm): 122
+
+Ionic Radius: 53 (+4e) 73 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.322
+
+First Ionizing Energy (kJ/mol): 760.0
+
+Oxidation States: +4 is the most common. +1, +2 and -4 exist but are rare.
+
+Lattice Structure: Diagonal
+
+Lattice Constant (Å): 5.660
+       

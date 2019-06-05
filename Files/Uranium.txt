@@ -1,0 +1,39 @@
+URANIUM
+
+Atomic Symbol: U
+
+Atomic Number: 92
+
+Atomic Weight: 238.0289
+
+Discovery: Martin Klaproth 1789 (Germany)
+
+Electron Configuration: [Rn] 7s2 5f3 6d1
+
+Element Classification: Radioactive Rare Earth Element (Actinide Series)
+
+Density (g/cc): 19.05
+
+Melting Point (K): 1405.5
+
+Boiling Point (K): 4018
+
+Appearance: Silvery-white, dense, ductile and malleable, radioactive metal
+
+Atomic Radius (pm): 138
+
+Covalent Radius (pm): 142
+
+Ionic Radius: 80 (+6e) 97 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.115
+
+First Ionizing Energy (kJ/mol): 686.4
+
+Oxidation States: 6, 5, 4, 3
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 2.850
+
+       

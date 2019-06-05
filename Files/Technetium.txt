@@ -1,0 +1,38 @@
+TECHNETIUM
+
+Symbol: Tc
+
+Atomic Number: 43
+
+Atomic Weight: 98.9072
+
+Discovery: Carlo Perrier, Emilio Segre 1937 (Italy)
+
+Electron Configuration: [Kr] 5s2 4d5
+
+Element Classification: Transition Metal
+
+Density (g/cc): 11.5
+
+Melting Point (K): 2445
+
+Boiling Point (K): 5150
+
+Appearance: silvery-gray metal
+
+Atomic Radius (pm): 136
+
+Covalent Radius (pm): 127
+
+Ionic Radius: 56 (+7e)
+
+Specific Heat (@20°C J/g mol): 0.243
+
+First Ionizing Energy (kJ/mol): 702.2
+
+Oxidation States: 7
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 2.740
+        

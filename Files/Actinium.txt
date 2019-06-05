@@ -1,0 +1,32 @@
+ACTINIUM
+
+Symbol: Ac
+
+Atomic Number: 89
+
+Atomic Weight: 227.0278
+
+Discovery: Andre-Louis Debierne 1899 (France)
+
+Electron Configuration: [Rn] 6d1 7s2
+
+Element Classification: Radioactive Rare Earth (Actinide Series)
+
+Melting Point (K): 1320
+
+Boiling Point (K): 3470
+
+Appearance: heavy, silvery-white metal that is highly radioactive
+
+Atomic Radius (pm): 188
+
+Ionic Radius: 118 (+3e)
+
+First Ionizing Energy (kJ/mol): 665.5
+
+Oxidation States: 3
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 5.310
+       

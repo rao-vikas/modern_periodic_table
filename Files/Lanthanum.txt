@@ -1,0 +1,37 @@
+LANTHANUM
+
+Symbol: La
+
+Atomic Number: 57
+
+Atomic Weight: 138.9055
+
+Discovery: Mosander 1839
+
+Electron Configuration: [Xe] 5d1 6s2
+
+Group: lanthanide
+
+Density @ 293 K: 6.7 g/cm3
+
+Melting Point: 1193.2 K
+
+Boiling Point: 3693 K
+
+Atomic Radius: 187 pm
+
+Ionic Radius (3+ ion): 117.2 pm
+
+1st Ionization Energy: 538.1 kJ/mole
+
+Specific Heat: 0.19 J/gK
+
+Structure: hexagonal
+
+Color: silvery-white
+
+Uses: lighter flints, camera lenses, cathode ray tubes
+
+Hardness: soft, malleable, ductile\n\nIsotopes (half-life): Natural lanthanum is a mix of two isotopes, though more isotopes now exist.
+ 
+       

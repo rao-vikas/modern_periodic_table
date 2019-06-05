@@ -1,0 +1,28 @@
+CALIFORNIUM
+
+Symbol: Cf
+
+Atomic Number: 98
+
+Atomic Weight: 251.0796
+
+Discovery: G.T. Seaborg, S.G. Tompson, A. Ghiorso, K. Street Jr. 1950 (United States)
+
+Electron Configuration: [Rn] 7s2 5f10
+
+Isotopes: The isotope Cf-249 results from the beta decay of Bk-249.
+ 
+Sources: Californium was first produced in 1950 by bombarding Cm-242 with 35 MeV helium ions.
+
+Element Classification: Radioactive Rare Earth (Actinide)
+
+Density (g/cc): 15.1
+
+Melting Point (K): 900
+
+Atomic Radius (pm): 295
+
+First Ionizing Energy (kJ/mol): (610)
+
+Oxidation States: 4, 3
+       

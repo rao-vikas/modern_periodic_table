@@ -1,0 +1,38 @@
+ZINC
+
+Symbol: Zn
+
+Atomic Number: 30
+
+Atomic Weight: 65.39
+
+Discovery: known since prehistoric time
+
+Electron Configuration: [Ar] 4s2 3d10
+
+Element Classification: Transition Metal
+
+Density (g/cc): 7.133
+
+Melting Point (K): 692.73
+
+Boiling Point (K): 1180
+
+Appearance: Bluish-silver, ductile metal
+
+Atomic Radius (pm): 138
+
+Covalent Radius (pm): 125
+
+Ionic Radius: 74 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.388
+
+First Ionizing Energy (kJ/mol): 905.8
+
+Oxidation States: +1 and +2. +2 is the most common.
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 2.660
+    

@@ -1,0 +1,38 @@
+GADOLINIUM
+
+Symbol: Gd
+
+Atomic Number: 64
+
+Atomic Weight: 157.25
+
+Discovery: Jean de Marignac 1880 (Switzerland)
+
+Electron Configuration: [Xe] 4f7 5d1 6s2
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 7.900
+
+Melting Point (K): 1586
+
+Boiling Point (K): 3539
+
+Appearance: soft, ductile, silvery-white metal
+
+Atomic Radius (pm): 179
+
+Covalent Radius (pm): 161
+
+Ionic Radius: 93.8 (+3e)
+
+Specific Heat (@20°C J/g mol): 0.230
+
+First Ionizing Energy (kJ/mol): 594.2
+
+Oxidation States: 3
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 3.640
+    

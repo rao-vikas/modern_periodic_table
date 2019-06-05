@@ -1,0 +1,38 @@
+WOLFRAM OR TUNGSTEN
+
+Symbol: W
+
+Atomic Number: 74
+
+Atomic Weight: 183.85
+
+Discovery: Juan Jose and Fausto d'Elhuyar purified tungsten in 1783 (Spain)
+
+Electron Configuration: [Xe] 6s2 4f14 5d4
+
+Element Classification: Transition Metal
+
+Density (g/cc): 19.3
+
+Melting Point (K): 3680
+
+Boiling Point (K): 5930
+
+Appearance: tough gray to white metal
+
+Atomic Radius (pm): 141
+
+Covalent Radius (pm): 130
+
+Ionic Radius: 62 (+6e) 70 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.133
+
+First Ionizing Energy (kJ/mol): 769.7
+
+Oxidation States: 6, 5, 4, 3, 2, 0
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 3.160
+      

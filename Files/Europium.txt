@@ -1,0 +1,38 @@
+EUROPIUM
+
+Symbol: Eu
+
+Atomic Number: 63
+
+Atomic Weight: 151.9655
+
+Discovery: Boisbaudran 1890
+
+Electron Configuration: [Xe] 4f7 6s2
+
+Element Classification: Rare Earth (Lanthanide)
+
+Density (g/cc): 5.243
+
+Melting Point (K): 1095
+
+Boiling Point (K): 1870
+
+Appearance: soft, silvery-white metal
+
+Atomic Radius (pm): 199
+
+Covalent Radius (pm): 185
+
+Ionic Radius: 95 (+3e) 109 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.176
+
+First Ionizing Energy (kJ/mol): 546.9
+
+Oxidation States: 3, 2
+
+Lattice Structure: Body-Centered Cubic
+
+Lattice Constant (Å): 4.610
+       

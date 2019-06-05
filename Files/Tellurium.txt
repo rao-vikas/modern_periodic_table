@@ -1,0 +1,41 @@
+TELLURIUM
+
+Symbol: Te
+
+Atomic Number: 52
+
+Atomic Weight: 127.6
+
+Discovery: Franz Joseph Meller von Reichenstein 1782 (Romania)
+
+Electron Configuration: [Kr] 4d10 5s2 5p4
+
+Element Classification: Semimetallic
+
+Density (g/cc): 6.24
+
+Melting Point (K): 722.7
+
+Boiling Point (K): 1263
+
+Appearance: silvery-white, brittle semimetal
+
+Atomic Radius (pm): 160
+
+Covalent Radius (pm): 136
+
+Ionic Radius: 56 (+6e) 211 (-2e)
+
+Specific Heat (@20°C J/g mol): 0.201
+
+Pauling Negativity Number: 2.1
+
+First Ionizing Energy (kJ/mol): 869.0
+
+Oxidation States: 6, 4, 2
+
+Lattice Structure: Hexagonal
+
+Lattice Constant (Å): 4.450
+
+        

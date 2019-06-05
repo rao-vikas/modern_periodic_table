@@ -1,0 +1,38 @@
+PLATINUM
+
+Symbol: Pt
+
+Atomic Number: 78
+
+Atomic Weight: 195.08
+
+Discovery: Ulloa 1735 (in South America).
+
+Electron Configuration: [Xe] 4f14 5d9 6s1
+
+Element Classification: Transition Metal
+
+Density (g/cc): 21.45
+
+Melting Point (K): 2045
+
+Boiling Point (K): 4100
+
+Appearance: very heavy, soft, silvery-white metal
+
+Atomic Radius (pm): 139
+
+Covalent Radius (pm): 130
+
+Ionic Radius: 65 (+4e) 80 (+2e)
+
+Specific Heat (@20°C J/g mol): 0.133
+
+First Ionizing Energy (kJ/mol): 868.1
+
+Oxidation States: 4, 2, 0
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 3.920
+        

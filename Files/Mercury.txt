@@ -1,0 +1,38 @@
+MERCURY
+
+Symbol: Hg
+
+Atomic Number: 80
+
+Atomic Weight: 200.59
+
+Element Classification: Transition Metal
+
+Mercury Electron Configuration: [Xe] 4f14 5d10 6s2
+
+State at room temperature (300 K): Liquid
+
+Appearance: heavy silvery white metal
+
+Density: 13.546 g/cc (20 °C)
+
+Melting Point: 234.32 K (-38.83 °C or -37.894 °F)
+
+Boiling Point: 356.62 K (356.62 °C or 629.77 °F)
+
+Specific Heat: 0.138 J/g·K (at 20 °C)
+
+Oxidation States: +2 , +1
+
+Atomic Radius: 1.32 Å
+
+Ionic Radius: 1.10 Å (+2e) 1.27 Å (+1e)
+
+Covalent Radius: 1.32 Å
+
+First Ionization Energy: 1007.065 kJ/mol
+
+Lattice Structure: Rhombohedral
+
+Lattice Constant: 2.990 Å
+       

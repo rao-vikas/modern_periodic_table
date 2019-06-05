@@ -1,0 +1,42 @@
+PHOSPHOROUS
+
+Symbol: P
+
+Atomic Number: 15
+
+Atomic Weight: 30.973762
+
+Discovery: Hennig Brand, 1669 (Germany)
+
+Electron Configuration: [Ne] 3s2 3p3
+
+Element Classification: Non-Metal
+
+Isotopes: Phosphorus has 22 known isotopes. P-31 is the only stable isotope.
+
+Density (g/cc): 1.82 (white phosphorus)
+
+Melting Point (K): 317.3
+
+Boiling Point (K): 553
+
+Appearance: white phosphorus is a waxy, phosphorescent solid
+
+Atomic Radius (pm): 128
+
+Covalent Radius (pm): 106
+
+Ionic Radius: 35 (+5e) 212 (-3e)
+
+Specific Heat (@20°C J/g mol): 0.757
+
+Pauling Negativity Number: 2.19
+
+First Ionizing Energy (kJ/mol): 1011.2
+
+Oxidation States: 5, 3, -3
+
+Lattice Structure: Cubic
+
+Lattice Constant (Å): 7.170
+        

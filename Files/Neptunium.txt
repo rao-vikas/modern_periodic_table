@@ -1,0 +1,32 @@
+NEPTUNIUM
+
+Symbol: Np
+
+Atomic Number: 93
+
+Atomic Weight: 237.0482
+
+Discovery: E.M. McMillan and P.H. Abelson 1940 (United States)
+
+Electron Configuration: [Rn] 5f4 6d1 7s2
+
+Element Classification: Radioactive Rare Earth Element (Actinide Series)
+
+Density (g/cc): 20.25
+
+Melting Point (K): 913
+
+Boiling Point (K): 4175
+
+Appearance: silvery metal
+
+Atomic Radius (pm): 130
+
+Ionic Radius: 95 (+4e) 110 (+3e)
+
+Oxidation States: 6, 5, 4, 3
+
+Lattice Structure: Orthorhombic
+
+Lattice Constant (Å): 4.720
+       

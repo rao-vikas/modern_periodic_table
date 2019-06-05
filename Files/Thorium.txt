@@ -1,0 +1,38 @@
+THORIUM
+
+Symbol: Th
+
+Atomic Number: 90
+
+Atomic Weight: 232.0381
+
+Discovery: Jons Jacob Berzelius 1828 (Sweden)
+
+Electron Configuration: [Rn] 6d2 7s2
+
+Element Classification: Radioactive Rare Earth (Actinide)
+
+Density (g/cc): 11.78
+
+Melting Point (K): 2028
+
+Boiling Point (K): 5060
+
+Appearance: gray, soft, malleable, ductile, radioactive metal
+
+Atomic Radius (pm): 180
+
+Covalent Radius (pm): 165
+
+Ionic Radius: 102 (+4e)
+
+Specific Heat (@20°C J/g mol): 0.113
+
+First Ionizing Energy (kJ/mol): 670.4
+
+Oxidation States: 4
+
+Lattice Structure: Face-Centered Cubic
+
+Lattice Constant (Å): 5.080
+       

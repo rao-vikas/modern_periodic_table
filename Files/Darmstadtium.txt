@@ -1,0 +1,12 @@
+DARMSTADTIUM
+
+Symbol: Ds or Uun
+
+Atomic Number: 110
+
+Atomic Weight: [269]
+
+Discovery: Hofmann, Ninov, Heavy Ion Research Laboratory (HIRL) GSI-Germany 1994
+
+Electron Configuration: [Rn] 5f14 6d9 7s1
+        

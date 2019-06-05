@@ -1,0 +1,42 @@
+ARSENIC
+
+Symbol: As
+
+Atomic Number: 33
+
+Atomic Weight: 74.92159
+
+Discovery: Albertus Magnus (1250)
+
+Electron Configuration: [Ar] 4s2 3d10 4p3
+
+Element Classification: Semimetallic
+
+Density (g/cc): 5.73
+ 
+Melting Point: 1090 K at 35.8 atmospheres (triple point of arsenic).  At normal pressure, arsenic has no melting point. 
+
+Boiling Point (K): 876
+
+Appearance: steel-grey, brittle semimetal
+
+Isotopes: There are 30 known isotopes of arsenic ranging from As-63 to As-92. Arsenic has one stable isotope: As-75.
+
+Atomic Radius (pm): 139
+
+Covalent Radius (pm): 120
+
+Ionic Radius: 46 (+5e) 222 (-3e)
+
+Specific Heat (@20°C J/g mol): 0.328
+
+Pauling Negativity Number: 2.18
+
+First Ionizing Energy (kJ/mol): 946.2
+
+Oxidation States: 5, 3, -2
+
+Lattice Structure: Rhombohedral
+
+Lattice Constant (Å): 4.130
+   

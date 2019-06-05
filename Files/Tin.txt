@@ -1,0 +1,34 @@
+TIN
+
+Symbol: Sn
+
+Atomic Number: 50
+
+Atomic Weight: 118.71
+
+Discovery: Known since ancient time.
+
+Electron Configuration: [Kr] 5s2 4d10 5p2
+
+Element Classification: Metal\n\nDensity (g/cc): 7.31
+
+Melting Point (K): 505.1
+
+Boiling Point (K): 2543
+
+Appearance: silvery-white, soft, malleable, ductile metal\n\nAtomic Radius (pm): 162
+
+Covalent Radius (pm): 141
+
+Ionic Radius: 71 (+4e) 93 (+2)
+
+Specific Heat (@20°C J/g mol): 0.222
+
+First Ionizing Energy (kJ/mol): 708.2
+
+Oxidation States: 4, 2
+
+Lattice Structure: Tetragonal
+
+Lattice Constant (Å): 5.820
+   
