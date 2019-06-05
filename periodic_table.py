@@ -7,7 +7,7 @@ def cont2():
     top.configure(height=10000,width=5678)
     # Group 1
     def b1():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Hydrogen.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Hydrogen.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="63",height="30")
@@ -15,7 +15,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b2():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Lithium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Lithium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="64",height="40")
@@ -23,7 +23,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b3():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Sodium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Sodium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="65",height="40")
@@ -31,7 +31,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b4():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Potassium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Potassium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="65",height="40")
@@ -39,7 +39,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b5():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Rubidium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Rubidium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="65",height="40")
@@ -47,7 +47,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b6():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Caesium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Caesium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="65",height="40")
@@ -55,7 +55,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b7():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Francium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Francium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="63",height="40")
@@ -64,7 +64,7 @@ def cont2():
         root.mainloop()
     # Group 2
     def b8():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Beryllium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Beryllium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="63",height="40")
@@ -72,7 +72,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b9():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Magnesium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Magnesium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="64",height="40")
@@ -80,7 +80,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b10():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Calcium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Calcium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="64",height="43")
@@ -88,7 +88,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b11():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Strontium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Strontium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="64",height="40")
@@ -96,7 +96,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b12():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Barium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Barium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="64",height="40")
@@ -104,7 +104,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b13():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Radium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Radium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="64",height="40")
@@ -938,7 +938,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b115():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Einsteinium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Einsteinium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="65",height="40")
@@ -946,7 +946,7 @@ def cont2():
         text.pack()
         root.mainloop()
     def b116():
-        t=open("D:\Study Material\Projects\Class XI Python Project\Files\Fermium.txt",'r')
+        t=open(" ‪C:\Users\office\Desktop\Files\Fermium.txt",'r')
         root = Tk()
         text = Text(root)
         text=Text(root,width="69",height="40")
