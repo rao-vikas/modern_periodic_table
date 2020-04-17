@@ -1,1 +1,1 @@
-# XI_class_project : Modern Periodic Table
+# XI_class_project : Interactive Modern Periodic Table
